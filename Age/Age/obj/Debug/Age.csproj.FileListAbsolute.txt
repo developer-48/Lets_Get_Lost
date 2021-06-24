@@ -1,0 +1,7 @@
+C:\Users\Yusup\Desktop\Age\Age\bin\Debug\Age.exe.config
+C:\Users\Yusup\Desktop\Age\Age\bin\Debug\Age.exe
+C:\Users\Yusup\Desktop\Age\Age\bin\Debug\Age.pdb
+C:\Users\Yusup\Desktop\Age\Age\obj\Debug\Age.csprojAssemblyReference.cache
+C:\Users\Yusup\Desktop\Age\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
+C:\Users\Yusup\Desktop\Age\Age\obj\Debug\Age.exe
+C:\Users\Yusup\Desktop\Age\Age\obj\Debug\Age.pdb
